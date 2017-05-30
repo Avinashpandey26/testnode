@@ -1,0 +1,25 @@
+{
+  "name": "testnode",
+  "version": "0.1",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "6.8.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/testnode"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
